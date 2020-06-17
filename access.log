@@ -1,0 +1,4 @@
+- GET /api/persons 200 440 - 255.465 ms -
+- GET /api/persons 304 - - 248.103 ms -
+- OPTIONS /api/persons 204 0 - 1.122 ms -
+application/json;charset=UTF-8 POST /api/persons 200 75 - 17.402 ms -
