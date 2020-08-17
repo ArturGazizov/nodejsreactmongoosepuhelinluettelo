@@ -1,7 +1,7 @@
 const mongoose = require('mongoose')
 require('mongoose-unique-validator')
 // Replace with the URL of your own database. Do not store the password on GitLab!
-const url = 'mongodb+srv://missismama:missismissis@cluster0-wcm2d.gcp.mongodb.net/test?retryWrites=true&w=majority'
+const url = 'mongodb+srv://missismama:+process.argv[2]+@cluster0-wcm2d.gcp.mongodb.net/test?retryWrites=true&w=majority'
    
 mongoose.set('useNewUrlParser', true)
 mongoose.set('useFindAndModify', false)
