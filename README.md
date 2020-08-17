@@ -6,7 +6,7 @@ http://cryptic-atoll-84395.herokuapp.com/api/persons
 
 to swap between production and running on home server
 
-swap adresses in src/services/persons.js , and swap package.json file after that run npm build in src folder (build folder will be built itself where needed)
+swap adresses in src/services/persons.js , and swap package.json file in folder "package.json for production build and for home server" after that run npm build in src folder (build folder will be built itself where needed)
 
 
 
